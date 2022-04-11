@@ -1,2 +1,2 @@
 # squirrel
-"SQUIRREL"
+"SQUIRREL" 🐿️
